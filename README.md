@@ -29,8 +29,10 @@ I’m passionate about building scalable, automated, and resilient infrastructur
 ---
 
 ## 📊 GitHub Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oslan17&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oslan17&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oslan17&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslan17&layout=compact&theme=tokyonight)  
 
 ---
 
