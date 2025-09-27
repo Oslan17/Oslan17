@@ -30,7 +30,6 @@ I’m passionate about building scalable, automated, and resilient infrastructur
 
 ## 📊 GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oslan17&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslan17&layout=compact&theme=tokyonight)  
 
 ---
@@ -39,6 +38,6 @@ I’m passionate about building scalable, automated, and resilient infrastructur
 
 - 🌎 [oslan.cloud](https://oslan.cloud)  
 - 🐦 [@oslan_evp](https://x.com/oslan_evp)  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oslan-villalobos/)  
 
 ---
