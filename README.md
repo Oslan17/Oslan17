@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Oslan Villalobos  
 
-💻 **DevOps Engineer | Cloud & Infrastructure Automation | Python Developer**  
+💻 **DevOps Engineer | Cloud & Infrastructure Automation**  
 
 I’m passionate about building scalable, automated, and resilient infrastructures in the cloud. My focus is on simplifying complexity, improving efficiency, and delivering reliable solutions.  
 
